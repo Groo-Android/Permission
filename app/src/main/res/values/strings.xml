@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Permission</string>
+
+    <string name="btn_phone_state">단말 정보 조회 권한 요청</string>
+    <string name="btn_call_phone">전화 걸기 권한 요청</string>
+    <string name="btn_location">위치 정보 조회 권한 요청</string>
+    <string name="btn_storage">저장소 접근 권한 요청</string>
+    <string name="btn_camera">카메라 촬영 권한 요청</string>
+
+    <string name="dialog_ok">확인</string>
+    <string name="dialog_setting">접근권한 설정하기</string>
+    <string name="dialog_cancel">취소</string>
+
+    <string name="setting_phone_state">단말 정보 조회를 위해 권한을 허용해주세요</string>
+    <string name="setting_call_phone">전화를 걸기 위해 권한을 허용해주세요</string>
+    <string name="setting_location">위치 정보 조회를 위해 권한을 허용해주세요</string>
+    <string name="setting_storage">저장소 접근을 위해 권한을 허용해주세요</string>
+    <string name="setting_camera">카메라 촬영을 위해 권한을 허용해주세요</string>
+
+    <string name="toast_not_need">안드로이드 10 이상의 단말에서는 해당 권한이 필요하지 않습니다</string>
+    <string name="toast_granted">권한이 허용되었습니다</string>
+    <string name="toast_denied">권한이 거부되었습니다</string>
 </resources>
