@@ -1,5 +1,5 @@
 # Permission
-안드로이드의 다양한 OS 버전을 대응하면서 퍼미션 권한을 쉽게 받을 수 있도록 모듈화를 진행했습니다.</br>
+안드로이드의 다양한 OS 버전을 대응하면서 퍼미션 권한을 간편히 받을 수 있도록 모듈화를 진행했습니다.</br>
 
 ### Permission Request Workflow
 <img background="" src="https://user-images.githubusercontent.com/49600974/151532960-d851a4cb-8ce3-44fc-b5d7-e09ad17761fe.png"/>
