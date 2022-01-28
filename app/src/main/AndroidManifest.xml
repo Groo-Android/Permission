@@ -34,7 +34,8 @@
 
         <activity
             android:name=".permission.PermissionActivity"
-            android:exported="true" />
+            android:exported="true"
+            android:theme="@style/Theme.Transparent.Permission" />
 
     </application>
 
